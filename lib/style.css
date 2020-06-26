@@ -1,0 +1,64 @@
+.pointer {
+    cursor: pointer;
+  }
+  
+  #delete-popup header {
+    display: none;
+  }
+  #delete-popup .btn-class-2 {
+    width: 46%;
+    text-align: center;
+  }
+  
+  #delete-popup .btn-class-1 {
+    width: 100%;
+  }
+  
+  #delete-popup .btn-class-3 {
+    width: 31%;
+  }
+  
+  #delete-popup .popup-btn {
+    border-right: 1px solid #ddd;
+  }
+  
+  #delete-popup .popup-btn:last-child {
+    border: none !important;
+  }
+  
+  #delete-popup .modal-footer {
+    padding: 0;
+  }
+  
+  #delete-popup .modal-footer .btn {
+    width: 100%;
+    color: #000;
+    background: transparent;
+    border: transparent;
+  }
+  
+  #delete-popup .popup-text {
+    display: inline-block;
+    width: 100%;
+    margin: 15px 0;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  #delete-popup .popup-btn-alertBox {
+    width: 100%;
+    text-align: center;
+  }
+  
+  #delete-popup .modal-header {
+    border-bottom: none;
+  }
+  
+  #delete-popup .modal-header h5 {
+    font-weight: bold;
+    color: #000 !important;
+  }
+  .txtLeft {
+    margin-left: 9px !important;
+    text-align: left !important;
+  }

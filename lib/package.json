@@ -1,0 +1,22 @@
+{
+  "name": "vue-weblineindia-address",
+  "version": "1.0.0",
+  "description": "A Vue.js address autosuggest component for the Google Maps Places API.",
+  "main": "./lib/alertDilogeBox.vue",
+  "author": "weblineindia",
+  "license": "MLT",
+  "repository": "https://github.com/weblineindia/Vue-Image-Crop-Upload",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "vue-weblineindia-address",
+    "autocomplete",
+    "gooele",
+    "vue components",
+    "vuejs",
+    "vuejs component"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.4.0"
+  }
+}

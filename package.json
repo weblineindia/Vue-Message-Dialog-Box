@@ -1,0 +1,21 @@
+{
+  "name": "vue-weblineindia-message-dialog-box",
+  "version": "1.0.0",
+  "description": "A Vue.js MessageDialog component is used for showing dialog with message.",
+  "main": "./lib/messageDialogBox.vue",
+  "author": "weblineindia",
+  "license": "MLT",
+  "repository": "https://github.com/weblineindia/Vue-Message-Dialog-Box",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "vue-weblineindia-message-dialog-box",
+    "alertbox",
+    "vue components",
+    "vuejs",
+    "vuejs component"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.4.0"
+  }
+}
